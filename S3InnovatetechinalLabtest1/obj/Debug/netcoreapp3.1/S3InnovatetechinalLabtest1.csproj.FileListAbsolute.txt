@@ -1,0 +1,13 @@
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\bin\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.exe
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\bin\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.deps.json
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\bin\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.runtimeconfig.json
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\bin\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.runtimeconfig.dev.json
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\bin\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.dll
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\bin\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.pdb
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\obj\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.csprojAssemblyReference.cache
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\obj\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.AssemblyInfoInputs.cache
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\obj\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.AssemblyInfo.cs
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\obj\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.csproj.CoreCompileInputs.cache
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\obj\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.dll
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\obj\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.pdb
+G:\BIJOY\Interview\S3InnovatetechinalLabtest1\S3InnovatetechinalLabtest1\obj\Debug\netcoreapp3.1\S3InnovatetechinalLabtest1.genruntimeconfig.cache
